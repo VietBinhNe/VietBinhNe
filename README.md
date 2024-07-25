@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on **ITR VN**
+- 🔭 I’m currently working at : **ITR VN**
 
-- 🌱 I’m currently learning at **VNUHCM – University Of Science**
+- 🌱 I’m currently learning at : **VNUHCM – University Of Science**
 
-- 📫 How to reach me **nguyenducvietbinh@gmail.com**
+- 📫 How to reach me : **nguyenducvietbinh@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact : **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
