@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at : **ITR VN**
 
-- 🌱 I’m currently learning at : **VNUHCM – University Of Science**
+- 🌱 I’m currently studying at : **VNUHCM – University Of Science**
 
 - 📫 How to reach me : **nguyenducvietbinh@gmail.com**
 
