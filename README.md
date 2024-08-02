@@ -10,7 +10,7 @@
 
 - 📫 How to reach me : **nguyenducvietbinh@gmail.com**
 
-- ⚡ Fun fact : **uwu ?**
+- ⚡ Fun fact : **B..Bốc Chi :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
