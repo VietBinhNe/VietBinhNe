@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VietBinhNe&show_icons=true&locale=en&theme=tokyonight" alt="VietBinhNe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VietBinhNe&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VietBinhNe&&theme=tokyonight" alt="VietBinhNe" /></p>
