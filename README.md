@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working at : **ITR VN**
+- 🔭 I’m currently working at : **....**
 
 - 🌱 I’m currently studying at : **VNUHCM – University Of Science**
 
